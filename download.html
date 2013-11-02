@@ -1,0 +1,141 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+
+    <title>yangchen-download</title>
+
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/font-awesome.css" rel="stylesheet">
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery.qrcode.min.js"></script>
+</head>
+<!-- NAVBAR
+================================================== -->
+<body>
+
+
+
+
+
+<!-- Marketing messaging and featurettes
+================================================== -->
+<!-- Wrap the rest of the page in another container to center all the content. -->
+
+<div class="container marketing">
+
+
+
+    <!-- START THE FEATURETTES -->
+    <hr class="featurette-divider" id="EasyHost">
+
+
+
+    <div class="row featurette">
+        <div class="col-md-7">
+            <h2 class="featurette-heading">EasyHost &nbsp;&nbsp;&nbsp;<span class="text-muted">node-webkit &nbsp; bootstrap</span></h2>
+            <p class="lead">A simple tool based on node-webkit which you can use to edit your hosts file on Linux,Mac and Windows.</p>
+        </div>
+        <div class="col-md-5">
+            <div style="text-align: center;margin-top: 50px;">
+            <a href="/products/EasyHost/EasyHost_Linux.zip" class="btn btn-default"><i class="icon-linux"></i>&nbsp;Linux</a>
+            <a target="_blank" href="http://pan.baidu.com/s/1faed" class="btn btn btn-primary"><i class="icon-apple"></i>&nbsp;Mac</a>
+            <a href="/products/EasyHost/EasyHost_Windows.zip" class="btn btn btn-success"><i class="icon-windows"></i>&nbsp;Windows</a>
+            </div>
+        </div>
+    </div>
+
+    <hr class="featurette-divider" id="SuperClipboard">
+
+    <div class="row featurette">
+        <div class="col-md-5">
+            <div id="superclipboard_qrcode" style="text-align: center;"></div>
+            <div style="text-align: center;margin-top: 30px;">
+                <a href="/products/SuperClipboard/SuperClipboard_Linux.zip" class="btn btn-default"><i class="icon-linux"></i>&nbsp;Linux</a>
+                <a href="/products/SuperClipboard/SuperClipboard_Mac.zip" class="btn btn-primary"><i class="icon-apple"></i>&nbsp;Mac</a>
+                <a href="/products/SuperClipboard/SuperClipboard_Windows.zip" class="btn btn-success"><i class="icon-windows"></i>&nbsp;Windows</a>
+                <a href="/products/SuperClipboard/SuperClipboard_Android.zip" class="btn btn-info"><i class="icon-android"></i>&nbsp;Android</a>
+            </div>
+        </div>
+        <div class="col-md-7">
+            <h2 class="featurette-heading">SuperClipboard &nbsp;&nbsp;&nbsp;<span class="text-muted">node-webkit &nbsp; bootstrap &nbsp; socket.io &nbsp; phonegap &nbsp; express &nbsp; sencha &nbsp; touch</span></h2>
+            <p class="lead">A cross platform real-time tool based on socket.io which can send data on a platform to clipboards on other platforms.So you can just paste it to where you use it.</p>
+        </div>
+    </div>
+
+    <hr class="featurette-divider" id="SuperTranslate">
+
+    <div class="row featurette">
+        <div class="col-md-7">
+            <h2 class="featurette-heading">SuperTranslate &nbsp;&nbsp;&nbsp;<span class="text-muted">phonegap &nbsp; sencha &nbsp; touch</span></h2>
+            <p class="lead">A simple real-time translate tool.You can speak Chinese(English) to it and it will translate to English(Chinese).</p>
+        </div>
+        <div class="col-md-5">
+            <div id="supertranslate_qrcode" style="text-align: center;"></div>
+            <div style="text-align: center;margin-top: 30px;">
+                <a href="/products/SuperTranslate/SuperTranslate_Android.zip" class="btn btn-info"><i class="icon-android"></i>&nbsp;Android</a>
+            </div>
+        </div>
+    </div>
+
+    <hr class="featurette-divider" id="MobileBug">
+
+    <div class="row featurette">
+        <div class="col-md-5">
+            <div id="mobilebug_qrcode" style="text-align: center;"></div>
+            <div style="text-align: center;margin-top: 30px;">
+                <a href="/products/MobileBug/MobileBug_Android.zip" class="btn btn-info"><i class="icon-android"></i>&nbsp;Android</a>
+            </div>
+        </div>
+        <div class="col-md-7">
+            <h2 class="featurette-heading">MobileBug &nbsp;&nbsp;&nbsp;<span class="text-muted">phonegap &nbsp; sencha &nbsp; touch &nbsp; weinre</span></h2>
+            <p class="lead">A mobile web app debug tool which should be used with weinre.</p>
+        </div>
+
+    </div>
+
+    <hr class="featurette-divider" id="MySocial">
+
+    <div class="row featurette">
+        <div class="col-md-7">
+            <h2 class="featurette-heading">MySocial &nbsp;&nbsp;&nbsp;<span class="text-muted">phonegap &nbsp; jqmobi</span></h2>
+            <p class="lead">A weibo android client contains sina weibo and tencent weibo.</p>
+        </div>
+        <div class="col-md-5">
+            <div id="mysocial_qrcode" style="text-align: center;"></div>
+            <div style="text-align: center;margin-top: 30px;">
+                <a href="/products/MySocial/MySocial_Android.zip" class="btn btn-info"><i class="icon-android"></i>&nbsp;Android</a>
+            </div>
+        </div>
+    </div>
+
+    <hr class="featurette-divider">
+
+    <!-- /END THE FEATURETTES -->
+
+
+    <!-- FOOTER -->
+    <footer>
+        <p class="pull-right"><a href="#">Back to top</a></p>
+        <p class="pull-right" style="margin-right: 20px;"><a href="/">Back to home</a></p>
+        <p>yangchen</p>
+    </footer>
+
+</div><!-- /.container -->
+
+<script>
+    (function(){
+        $("#superclipboard_qrcode").qrcode('http://121.199.22.27/products/SuperClipboard/SuperClipboard_Android.apk');
+        $("#supertranslate_qrcode").qrcode('http://121.199.22.27/products/SuperTranslate/SuperTranslate_Android.apk');
+        $("#mobilebug_qrcode").qrcode('http://121.199.22.27/products/MobileBug/MobileBug_Android.apk');
+        $("#mysocial_qrcode").qrcode('http://121.199.22.27/products/Mysocial/MySocial_Android.apk');
+    })();
+</script>
+
+</body>
+</html>

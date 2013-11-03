@@ -14,7 +14,7 @@
     <file path="/jquery.gallery.js" changelist="823851dd-d614-470b-b921-70af348529c7" time="1378111454400" ignored="false" />
     <file path="/style.css" changelist="823851dd-d614-470b-b921-70af348529c7" time="1378105037002" ignored="false" />
     <file path="/jquery.textillate.js" changelist="823851dd-d614-470b-b921-70af348529c7" time="1379578745221" ignored="false" />
-    <file path="/download.html" changelist="823851dd-d614-470b-b921-70af348529c7" time="1383454180499" ignored="false" />
+    <file path="/download.html" changelist="823851dd-d614-470b-b921-70af348529c7" time="1383471450241" ignored="false" />
     <file path="$USER_HOME$/Desktop/superClipboard.nw/package.json" changelist="823851dd-d614-470b-b921-70af348529c7" time="1382347254209" ignored="false" />
     <file path="$PROJECT_DIR$/../test/requirejs/piano/src/js/base/loadModule.js" changelist="823851dd-d614-470b-b921-70af348529c7" time="1382357489317" ignored="false" />
     <file path="/loadModule.js" changelist="823851dd-d614-470b-b921-70af348529c7" time="1382357478149" ignored="false" />
@@ -97,7 +97,7 @@
       <file leaf-file-name="download.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/download.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="133" column="73" selection-start="5881" selection-end="5881" vertical-scroll-proportion="0.50948906">
+            <state line="102" column="63" selection-start="4703" selection-end="4703" vertical-scroll-proportion="0.43941605">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -467,7 +467,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/download.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="133" column="73" selection-start="5881" selection-end="5881" vertical-scroll-proportion="0.50948906">
+        <state line="102" column="63" selection-start="4703" selection-end="4703" vertical-scroll-proportion="0.43941605">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />

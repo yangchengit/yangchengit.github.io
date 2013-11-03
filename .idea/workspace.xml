@@ -25,7 +25,7 @@
     <file path="$PROJECT_DIR$/../sina/index.html" changelist="823851dd-d614-470b-b921-70af348529c7" time="1382608039919" ignored="false" />
     <file path="/WLDM.html" changelist="823851dd-d614-470b-b921-70af348529c7" time="1382612704862" ignored="false" />
     <file path="/MapWar.html" changelist="823851dd-d614-470b-b921-70af348529c7" time="1382613905498" ignored="false" />
-    <file path="/about.html" changelist="823851dd-d614-470b-b921-70af348529c7" time="1383455040395" ignored="false" />
+    <file path="/about.html" changelist="823851dd-d614-470b-b921-70af348529c7" time="1383465241119" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="22" selection-start="478" selection-end="478" vertical-scroll-proportion="0.0">
+            <state line="199" column="83" selection-start="11034" selection-end="11034" vertical-scroll-proportion="-58.12">
               <folding />
             </state>
           </provider>
@@ -57,8 +57,10 @@
       <file leaf-file-name="about.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="20" selection-start="299" selection-end="299" vertical-scroll-proportion="0.35036495">
-              <folding />
+            <state line="207" column="46" selection-start="7825" selection-end="7825" vertical-scroll-proportion="0.47445256">
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -121,8 +123,8 @@
         <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/WLDM.html" />
         <option value="$PROJECT_DIR$/MapWar.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/download.html" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/about.html" />
       </list>
     </option>
@@ -281,14 +283,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.063591026" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25107604" sideWeight="0.936409" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25107604" sideWeight="0.936409" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -437,13 +439,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="22" selection-start="478" selection-end="478" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/download.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="134" column="34" selection-start="5939" selection-end="5939" vertical-scroll-proportion="-128.64">
@@ -451,10 +446,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="199" column="83" selection-start="11034" selection-end="11034" vertical-scroll-proportion="-58.12">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="20" selection-start="299" selection-end="299" vertical-scroll-proportion="0.35036495">
-          <folding />
+        <state line="207" column="46" selection-start="7825" selection-end="7825" vertical-scroll-proportion="0.47445256">
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

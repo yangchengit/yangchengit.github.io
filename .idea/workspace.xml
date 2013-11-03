@@ -26,6 +26,8 @@
     <file path="/WLDM.html" changelist="823851dd-d614-470b-b921-70af348529c7" time="1382612704862" ignored="false" />
     <file path="/MapWar.html" changelist="823851dd-d614-470b-b921-70af348529c7" time="1382613905498" ignored="false" />
     <file path="/about.html" changelist="823851dd-d614-470b-b921-70af348529c7" time="1383465425647" ignored="false" />
+    <file path="$PROJECT_DIR$/../phoneSky/phoneSky/mojits/cordovaSky/assets/js/appstore.js" changelist="823851dd-d614-470b-b921-70af348529c7" time="1383467006602" ignored="false" />
+    <file path="/appstore.js" changelist="823851dd-d614-470b-b921-70af348529c7" time="1383466992889" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,10 +56,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="207" column="45" selection-start="7824" selection-end="7824" vertical-scroll-proportion="0.47445256">
+            <state line="207" column="45" selection-start="7824" selection-end="7824" vertical-scroll-proportion="-11.08">
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -92,11 +94,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="download.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="download.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/download.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="134" column="34" selection-start="5939" selection-end="5939" vertical-scroll-proportion="-128.64">
-              <folding />
+            <state line="64" column="64" selection-start="2687" selection-end="2687" vertical-scroll-proportion="0.2642336">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -123,9 +129,9 @@
         <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/WLDM.html" />
         <option value="$PROJECT_DIR$/MapWar.html" />
-        <option value="$PROJECT_DIR$/download.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/download.html" />
       </list>
     </option>
   </component>
@@ -369,7 +375,11 @@
     <entry file="file://$PROJECT_DIR$/download.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="96" column="30" selection-start="0" selection-end="6183" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -439,13 +449,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/download.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="134" column="34" selection-start="5939" selection-end="5939" vertical-scroll-proportion="-128.64">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="199" column="83" selection-start="11034" selection-end="11034" vertical-scroll-proportion="-58.12">
@@ -455,9 +458,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="207" column="45" selection-start="7824" selection-end="7824" vertical-scroll-proportion="0.47445256">
+        <state line="207" column="45" selection-start="7824" selection-end="7824" vertical-scroll-proportion="-11.08">
           <folding>
             <element signature="n#style#0;n#a#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="64" selection-start="2687" selection-end="2687" vertical-scroll-proportion="0.2642336">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

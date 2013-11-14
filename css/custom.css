@@ -63,7 +63,6 @@ a.carousel-control:hover {
     width: 100%;
 }
 
-/* logo - icon is from fontawesome font */
 .site-title {
     margin-top: 5px;
     color: #fff;
@@ -73,7 +72,6 @@ a.carousel-control:hover {
     margin-top: 34px;
 }
 
-/* user login / register */
 .user {
     margin-top: 34px;
 }
@@ -95,7 +93,6 @@ a.carousel-control:hover {
 }
 
 
-/* header-description */
 .header-description {
     margin: 130px 0 80px;
     text-align: center;
@@ -108,7 +105,6 @@ a.carousel-control:hover {
     padding: 0px 0 40px 0;
 }
 
-/* header button - call to action button */
 .header-btn {
     color: #fff;
     margin-top: 130px;
@@ -130,7 +126,6 @@ a.carousel-control:hover {
     background: transparent;
 }
 
-/* header features */
 .header-features {
     margin: -50px 110px 0 110px;
     color: #fff;
@@ -143,9 +138,7 @@ a.carousel-control:hover {
 
 
 
-/*************************************************************
-                        section#features
-**************************************************************/
+
 .features {
     background: rgb(255, 135, 89);
     border-top: 1px solid rgba(255, 255, 255, 0.54);
@@ -162,21 +155,11 @@ a.carousel-control:hover {
 
 
 
-/*************************************************************
-                        section#contact
-**************************************************************/
 .contact {
     background: rgb(243, 243, 243);
 }
 
-/* google map */
-#map{
-    display: block;
-    height: 450px;
-    margin: 0 auto;
-}
 
-/* contact description - feedbacks and questions */
 .contact > div.container {
     padding-top: 50px;
 }
@@ -187,7 +170,6 @@ a.carousel-control:hover {
     color: rgb(68, 68, 68);
 }
 
-/* social icons */
 ul.social {
     text-align: center;
     padding: 20px 0 0px;
@@ -229,7 +211,6 @@ ul.social li a i {
 
 
 
-/* sliding contact form */
 .contact-form input, .contact-form textarea {
     padding: 10px auto;
     height: 50px;
@@ -275,9 +256,7 @@ ul.social li a i {
     color: #000;
 }
 
-/*************************************************************
-                        section#subscribe
-**************************************************************/
+
 .subscribe {
     background: rgb(26, 26, 26);
     color: #fff;
@@ -332,9 +311,7 @@ ul.social li a i {
 }
 
 
-/*************************************************************
-                        #footer
-**************************************************************/
+
 .footer {
     padding: 0px 0 !important;
 }
@@ -348,13 +325,9 @@ ul.social li a i {
     margin-top: 22px;
 }
 
-/*************************************************************
-                        responsive fix
-**************************************************************/
-/* Large desktop */
+
 @media (min-width: 1200px) {  }
 
-/* Portrait tablet to landscape and desktop */
 @media (min-width: 768px) and (max-width: 979px) {
     .header-description h2 {
         font-size: 83px;
@@ -369,7 +342,6 @@ ul.social li a i {
     }
 }
 
-/* Landscape phone to portrait tablet */
 @media (max-width: 767px) {
     body {
         padding: 0;
@@ -396,7 +368,6 @@ ul.social li a i {
         padding: 0;
     }
 
-    /* blockqoute */
     .testimonials {
         padding: 44px 0 60px !important;
     }
@@ -410,7 +381,6 @@ ul.social li a i {
         font-size: 18px;
     }
 
-    /* contact form */
     .contact-form-inner {
         padding: 18px !important;
     }
@@ -424,7 +394,6 @@ ul.social li a i {
 
 }
 
-/* Landscape phones and down */
 @media (max-width: 480px) {
 
 }
